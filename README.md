@@ -7,6 +7,6 @@
 - 💬 Ask me about ... Anything..
 - 📫 How to reach me: ... edwardsengupta@gmail.com
 - 😄 Pronouns: ... He/Him
-- ⚡ Skills: ... C/C++,Front-End,Consultancy.. 
+- ⚡ Skills: ... C/C++,Front-End,SQL,Consultancy.. 
 
 
